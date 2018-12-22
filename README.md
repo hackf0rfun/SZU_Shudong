@@ -8,4 +8,4 @@ Two user maybe the Mini program developer or administrator(because Uid is very s
 
 However, some students aspire booty call(yue pao). Plese pay attention to your words.
 
-[user](https://github.com/hackf0rfun/SZU_Shudong/blob/master/user.jpg)
+![user](https://github.com/hackf0rfun/SZU_Shudong/blob/master/user.jpg)
