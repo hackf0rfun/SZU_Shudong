@@ -7,4 +7,4 @@ Now probably collected more than 1000 users of the record(Maybe users are active
 Two user maybe the Mini program developer or administrator(because Uid is very small). Through they content, I can know some information about them. For example Uid:1 had graduated and Uid:2 is a enthusiastic guy.
 
 However, some students aspire booty call(yue pao). Plese pay attention to your words.
-[](https://github.com/hackf0rfun/SZU_Shudong/blob/master/user.jpg)
+[user](https://github.com/hackf0rfun/SZU_Shudong/blob/master/user.jpg)
