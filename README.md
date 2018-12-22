@@ -1,11 +1,11 @@
 # SZU_Shudong
 
-**This project for fun, please use data as the right way. (:**
+**This project is just for fun, please use data in right way. (:**
 
-Now probably collected more than 1000 users of the record(Maybe users are active users, because I collected data from July to the present), but do not worry, only collected OpenID and Uid, do not know WeChat ID, only for research purposes.
+Now I had probably collected the record of more than 1000 users (Maybe these users are active, because I collected their data from July to present). But don't worry, I only collected OpenID and Uid, don't know WeChat ID, only for research purposes.
 
-Two user maybe the Mini program developer or administrator(because Uid is very small). Through they content, I can know some information about them. For example Uid:1 had graduated who has a job in tencent and Uid:2 is a enthusiastic guy.
+Two users are maybe the Mini program developers or administrators(because Uid is very small). Through their comments, I can know some information about them. For example, Uid:1 has graduated who has a job in Tencent and Uid:2 is a warm-hearted guy.
 
-However, some students aspire booty call(yue pao). Plese pay attention to your words.
+However, some students aspire booty call(yue pao). **Please pay attention to your ugly words.**
 
 ![user](https://github.com/hackf0rfun/SZU_Shudong/blob/master/user.jpg)
